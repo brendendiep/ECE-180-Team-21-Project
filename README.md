@@ -1,8 +1,8 @@
 # ECE-180-Team-21-Project  
 
 ##                                       Price Analysis and Prediction of Cryptocurrency 
-                              Team members: Huan Hu, David Paz, Brenden Diep, Yuwei Li, Jaihee Kim, Chen Du
-                                                    Email: huh015@eng.ucsd.edu
+####                              Team members: Huan Hu, David Paz, Brenden Diep, Yuwei Li, Jaihee Kim, Chen Du
+####                                                    Email: huh015@eng.ucsd.edu
 
 **Purpose**  
 In 2017, the cryptocurrency Bitcoin went from $830 to a record of $19,300. As cryptocurrency gains acceptance by its increasing use by a number of companies and organizations, more and more people are trading cryptocurrency while the profits lie on the prediction of its price. Unlike conventional stocks, the cryptocurrency price had big swings in short time. Our team is trying to predict the price of cryptocurrency includes Bitcoin, Ethereum, Ripple and so on with different mathematical models and optimize the trading strategy of cryptocurrency trading.
