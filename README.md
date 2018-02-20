@@ -12,14 +12,14 @@ Cryptocurrency price is free of access and we are going to scratch the financial
 
 
 **Schedules**  
-02/08~02/15	Data scratch, cleaning and formatting		(Yuwei Li, Jaihee Kim)				
+ - 02/08~02/15	Data scratch, cleaning and formatting		(Yuwei Li, Jaihee Kim)				
 
-02/15~02/24     Python implementation of AR and Kalman filter model (David Paz, Brenden Diep)
+ - 02/15~02/24  Python implementation of AR and Kalman filter model (David Paz, Brenden Diep)
                 Machine learning algorithms (Huan Hu, Chen Du)
 
-02/24~03/01	Prediction and validation of three different algorithms		(Brenden Diep, Jaihee Kim, Yuwei Li)
+ - 02/24~03/01	Prediction and validation of three different algorithms		(Brenden Diep, Jaihee Kim, Yuwei Li)
 
-03/01~03/8	Conclusion and report	(Chen Du, Huan Hu, David Paz)
+ - 03/01~03/8	Conclusion and report	(Chen Du, Huan Hu, David Paz)
 		
 
 **Reference**  
